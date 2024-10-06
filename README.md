@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![My Blog](https://img.shields.io/badge/Visit-My%20Blog-green?style=for-the-badge&logo=Bloglovin)](https://blog.moosy.fun)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BGboy-bit)](https://github.com/anuraghazra/github-readme-stats)
